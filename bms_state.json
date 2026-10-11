@@ -14,7 +14,7 @@
       "date": "20261015",
       "cat": "GoldStar",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "RSSC|124225|20261015|GoldStar": {
       "venue": "Rohini Silver Screens: Koyambedu",
@@ -30,7 +30,7 @@
       "date": "20261015",
       "cat": "GoldStar",
       "price": "190.00",
-      "status": "2"
+      "status": "1"
     },
     "RSSC|124218|20261015|GoldStar": {
       "venue": "Rohini Silver Screens: Koyambedu",
@@ -38,7 +38,7 @@
       "date": "20261015",
       "cat": "GoldStar",
       "price": "190.00",
-      "status": "2"
+      "status": "1"
     },
     "RSSC|124222|20261015|GoldStar": {
       "venue": "Rohini Silver Screens: Koyambedu",
@@ -46,7 +46,7 @@
       "date": "20261015",
       "cat": "GoldStar",
       "price": "190.00",
-      "status": "2"
+      "status": "1"
     },
     "RSSC|124226|20261015|GoldStar": {
       "venue": "Rohini Silver Screens: Koyambedu",
@@ -208,54 +208,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "FMCN|105693|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "SILVER",
-      "price": "183.80",
-      "status": "0"
-    },
-    "FMCN|105693|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "PREMIERE",
-      "price": "54.35",
-      "status": "0"
-    },
-    "FMCN|105688|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "SILVER",
-      "price": "183.80",
-      "status": "0"
-    },
-    "FMCN|105688|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "PREMIERE",
-      "price": "54.35",
-      "status": "0"
-    },
-    "FMCN|105698|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:30 AM",
-      "date": "20261015",
-      "cat": "SILVER",
-      "price": "183.80",
-      "status": "0"
-    },
-    "FMCN|105698|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "09:30 AM",
-      "date": "20261015",
-      "cat": "PREMIERE",
-      "price": "54.35",
-      "status": "0"
-    },
     "FMCN|105696|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
       "time": "07:25 PM",
@@ -272,85 +224,149 @@
       "price": "54.35",
       "status": "0"
     },
-    "FMCN|105691|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "07:45 PM",
+    "PBRM|25663|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:00 AM",
       "date": "20261015",
-      "cat": "SILVER",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "0"
     },
-    "FMCN|105691|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "07:45 PM",
+    "PBRM|25663|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:00 AM",
       "date": "20261015",
-      "cat": "PREMIERE",
+      "cat": "BUDGET",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
-    "FMCN|105701|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "07:55 PM",
+    "PBRM|25668|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:15 AM",
       "date": "20261015",
-      "cat": "SILVER",
+      "cat": "ELITE",
       "price": "183.80",
       "status": "0"
     },
-    "FMCN|105701|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "07:55 PM",
+    "PBRM|25668|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:15 AM",
       "date": "20261015",
-      "cat": "PREMIERE",
+      "cat": "BUDGET",
       "price": "54.35",
-      "status": "0"
+      "status": "1"
     },
-    "FMCN|105697|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "11:00 PM",
+    "PBRM|25673|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:30 AM",
       "date": "20261015",
-      "cat": "SILVER",
+      "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
-    "FMCN|105697|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "11:00 PM",
+    "PBRM|25673|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "09:30 AM",
       "date": "20261015",
-      "cat": "PREMIERE",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
-    "FMCN|105692|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
+    "PBRM|25666|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:20 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PBRM|25666|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:20 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "1"
+    },
+    "PBRM|25671|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:35 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PBRM|25671|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:35 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "1"
+    },
+    "PBRM|25676|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PBRM|25676|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "2"
+    },
+    "PBRM|25667|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:50 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PBRM|25667|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "10:50 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "2"
+    },
+    "PBRM|25672|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "11:05 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PBRM|25672|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
+      "time": "11:05 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "1"
+    },
+    "PBRM|25677|20261015|ELITE": {
+      "venue": "PVR: Perambur, Spectrum Mall",
       "time": "11:20 PM",
       "date": "20261015",
-      "cat": "SILVER",
+      "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
-    "FMCN|105692|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
+    "PBRM|25677|20261015|BUDGET": {
+      "venue": "PVR: Perambur, Spectrum Mall",
       "time": "11:20 PM",
       "date": "20261015",
-      "cat": "PREMIERE",
+      "cat": "BUDGET",
       "price": "54.35",
-      "status": "0"
-    },
-    "FMCN|105702|20261015|SILVER": {
-      "venue": "INOX National: Arcot Road",
-      "time": "11:30 PM",
-      "date": "20261015",
-      "cat": "SILVER",
-      "price": "183.80",
-      "status": "0"
-    },
-    "FMCN|105702|20261015|PREMIERE": {
-      "venue": "INOX National: Arcot Road",
-      "time": "11:30 PM",
-      "date": "20261015",
-      "cat": "PREMIERE",
-      "price": "54.35",
-      "status": "0"
+      "status": "3"
     }
   },
   "dates": {
