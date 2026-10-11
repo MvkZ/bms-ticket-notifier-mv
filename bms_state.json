@@ -64,13 +64,157 @@
       "price": "190.00",
       "status": "2"
     },
+    "PGMV|22978|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:00 AM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PGMV|22978|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:00 AM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22883|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22883|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22888|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:20 AM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22888|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:20 AM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22981|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PGMV|22981|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22886|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22886|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22891|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22891|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22982|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:00 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "2"
+    },
+    "PGMV|22982|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:00 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22887|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22887|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22892|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "1"
+    },
+    "PGMV|22892|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
     "FMCN|105693|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
       "time": "09:00 AM",
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105693|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -78,7 +222,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105688|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -94,7 +238,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105698|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -134,7 +278,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105691|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -142,7 +286,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105701|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -150,7 +294,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105701|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -158,7 +302,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105697|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -166,7 +310,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105697|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -174,7 +318,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105692|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -182,7 +326,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105692|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -190,7 +334,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105702|20261015|SILVER": {
       "venue": "INOX National: Arcot Road",
@@ -198,7 +342,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "3"
+      "status": "0"
     },
     "FMCN|105702|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
@@ -206,103 +350,7 @@
       "date": "20261015",
       "cat": "PREMIERE",
       "price": "54.35",
-      "status": "3"
-    },
-    "INCH|80999|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INCH|80999|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
       "status": "0"
-    },
-    "INCH|81004|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INCH|81004|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INCH|81002|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "07:20 PM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "3"
-    },
-    "INCH|81002|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "07:20 PM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "3"
-    },
-    "INCH|81007|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "07:35 PM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "3"
-    },
-    "INCH|81007|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "07:35 PM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "3"
-    },
-    "INCH|81003|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "10:50 PM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "3"
-    },
-    "INCH|81003|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "10:50 PM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "3"
-    },
-    "INCH|81008|20261015|Club": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "11:05 PM",
-      "date": "20261015",
-      "cat": "Club",
-      "price": "183.80",
-      "status": "3"
-    },
-    "INCH|81008|20261015|Executive": {
-      "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
-      "time": "11:05 PM",
-      "date": "20261015",
-      "cat": "Executive",
-      "price": "54.35",
-      "status": "3"
     }
   },
   "dates": {
