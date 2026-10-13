@@ -78,7 +78,7 @@
       "date": "20261015",
       "cat": "GoldStar",
       "price": "190.00",
-      "status": "1"
+      "status": "0"
     },
     "RSSC|124218|20261015|GoldStar": {
       "venue": "Rohini Silver Screens: Koyambedu",
@@ -526,7 +526,7 @@
       "date": "20261015",
       "cat": "EXECUTIVE",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "INTO|91643|20261015|CLUB": {
       "venue": "INOX: The Marina Mall, OMR",
@@ -685,6 +685,294 @@
       "time": "11:40 PM",
       "date": "20261015",
       "cat": "EXECUTIVE",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67471|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67471|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:00 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67446|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67446|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:05 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67451|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67451|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67461|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67461|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67456|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67456|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:15 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "3"
+    },
+    "INPR|67466|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:20 AM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67466|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:20 AM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67474|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67474|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:30 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67449|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:35 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67449|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:35 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67454|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67454|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67464|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67464|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67459|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67459|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67469|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67469|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:50 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67475|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:00 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67475|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:00 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67450|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:05 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67450|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:05 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67455|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67455|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67465|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67465|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:10 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67460|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67460|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
+      "price": "54.35",
+      "status": "0"
+    },
+    "INPR|67470|20261015|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "ELITE",
+      "price": "183.80",
+      "status": "0"
+    },
+    "INPR|67470|20261015|BUDGET": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "BUDGET",
       "price": "54.35",
       "status": "0"
     },
@@ -912,294 +1200,6 @@
       "price": "54.35",
       "status": "0"
     },
-    "INPR|67471|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67471|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67446|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67446|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:05 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67451|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67451|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67461|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67461|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67456|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67456|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:15 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "3"
-    },
-    "INPR|67466|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67466|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67474|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|67474|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67449|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:35 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67449|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:35 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67454|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67454|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67464|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67464|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67459|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67459|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67469|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67469|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67475|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:00 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67475|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:00 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67450|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:05 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "1"
-    },
-    "INPR|67450|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:05 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67455|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67455|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67465|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67465|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67460|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67460|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "INPR|67470|20261015|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "INPR|67470|20261015|BUDGET": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
     "PVPZ|39592|20261015|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
       "time": "09:00 AM",
@@ -1270,7 +1270,7 @@
       "date": "20261015",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "0"
+      "status": "1"
     },
     "PVPZ|39597|20261015|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -1414,7 +1414,7 @@
       "date": "20261015",
       "cat": "ELITE",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "PVPZ|39606|20261015|BUDGET": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -2046,7 +2046,7 @@
       "date": "20261015",
       "cat": "BUDGET",
       "price": "54.35",
-      "status": "1"
+      "status": "0"
     },
     "PBRM|25671|20261015|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -2272,219 +2272,147 @@
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28570|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "PGMV|22978|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
       "time": "09:00 AM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28570|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "PGMV|22978|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
       "time": "09:00 AM",
       "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28570|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28580|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
+    "PGMV|22883|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28580|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
+    "PGMV|22883|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:10 AM",
       "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28580|20261015|ECONOMY": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
-      "date": "20261015",
-      "cat": "ECONOMY",
-      "price": "163.00",
-      "status": "0"
-    },
-    "PVSR|28580|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:15 AM",
-      "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28575|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:30 AM",
+    "PGMV|22888|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:20 AM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28575|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "09:30 AM",
+    "PGMV|22888|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:20 AM",
       "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28573|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:10 PM",
+    "PGMV|22981|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:30 PM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28573|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:10 PM",
+    "PGMV|22981|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:30 PM",
       "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28573|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:10 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28583|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "ELITE",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PVSR|28583|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28583|20261015|ECONOMY": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "ECONOMY",
-      "price": "163.00",
-      "status": "0"
-    },
-    "PVSR|28583|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PVSR|28578|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "PGMV|22886|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
       "time": "07:40 PM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28578|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
+    "PGMV|22886|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
       "time": "07:40 PM",
       "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28574|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "PGMV|22891|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:50 PM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28574|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
+    "PGMV|22891|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "07:50 PM",
       "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28574|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:35 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28584|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:55 PM",
+    "PGMV|22982|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:00 PM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28584|20261015|PREMIUM": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:55 PM",
+    "PGMV|22982|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:00 PM",
       "date": "20261015",
-      "cat": "PREMIUM",
-      "price": "173.00",
-      "status": "0"
-    },
-    "PVSR|28584|20261015|ECONOMY": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:55 PM",
-      "date": "20261015",
-      "cat": "ECONOMY",
-      "price": "163.00",
-      "status": "0"
-    },
-    "PVSR|28584|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "10:55 PM",
-      "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
-    "PVSR|28579|20261015|ELITE": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "11:05 PM",
+    "PGMV|22887|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:10 PM",
       "date": "20261015",
-      "cat": "ELITE",
+      "cat": "PRIME",
       "price": "183.80",
       "status": "0"
     },
-    "PVSR|28579|20261015|BUDGET": {
-      "venue": "PVR: Sathyam, Royapettah",
-      "time": "11:05 PM",
+    "PGMV|22887|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:10 PM",
       "date": "20261015",
-      "cat": "BUDGET",
+      "cat": "CLASSIC",
+      "price": "54.35",
+      "status": "0"
+    },
+    "PGMV|22892|20261015|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "PRIME",
+      "price": "183.80",
+      "status": "0"
+    },
+    "PGMV|22892|20261015|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "11:20 PM",
+      "date": "20261015",
+      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
@@ -2718,157 +2646,13 @@
       "date": "20261015",
       "cat": "Club",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "INCH|81008|20261015|Executive": {
       "venue": "INOX: Chennai Citi Centre, Dr. RK Salai",
       "time": "11:05 PM",
       "date": "20261015",
       "cat": "Executive",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22978|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22978|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:00 AM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22883|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22883|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:10 AM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22888|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22888|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "09:20 AM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22981|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22981|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:30 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22886|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22886|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:40 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22891|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22891|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "07:50 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22982|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:00 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22982|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:00 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22887|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22887|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:10 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
-      "price": "54.35",
-      "status": "0"
-    },
-    "PGMV|22892|20261015|PRIME": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "PRIME",
-      "price": "183.80",
-      "status": "0"
-    },
-    "PGMV|22892|20261015|CLASSIC": {
-      "venue": "PVR: Grand Mall, Velachery",
-      "time": "11:20 PM",
-      "date": "20261015",
-      "cat": "CLASSIC",
       "price": "54.35",
       "status": "0"
     },
@@ -2990,7 +2774,7 @@
       "date": "20261015",
       "cat": "SILVER",
       "price": "183.80",
-      "status": "1"
+      "status": "0"
     },
     "FMCN|105692|20261015|PREMIERE": {
       "venue": "INOX National: Arcot Road",
