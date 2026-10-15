@@ -1,33 +1,7 @@
 {
-  "shows": {
-    "RSSC|124226|20261015|GoldStar": {
-      "venue": "Rohini Silver Screens: Koyambedu",
-      "time": "11:59 PM",
-      "date": "20261015",
-      "cat": "GoldStar",
-      "price": "190.00",
-      "status": "0"
-    },
-    "RSSC|124230|20261015|GoldStar": {
-      "venue": "Rohini Silver Screens: Koyambedu",
-      "time": "11:59 PM",
-      "date": "20261015",
-      "cat": "GoldStar",
-      "price": "190.00",
-      "status": "0"
-    },
-    "RSSC|124234|20261015|GoldStar": {
-      "venue": "Rohini Silver Screens: Koyambedu",
-      "time": "11:59 PM",
-      "date": "20261015",
-      "cat": "GoldStar",
-      "price": "190.00",
-      "status": "0"
-    }
-  },
+  "shows": {},
   "dates": {
-    "20261015": "BOOKABLE",
-    "20261016": "AVAILABLE",
+    "20261016": "BOOKABLE",
     "20261017": "AVAILABLE",
     "20261018": "AVAILABLE",
     "20261019": "AVAILABLE",
